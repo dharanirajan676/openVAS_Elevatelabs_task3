@@ -1,0 +1,8 @@
+OPENVAS INFO
+
+USER
+admin
+
+
+PASSWORD
+4d44651d-102f-4b26-b13f-1ecb5c8678b6
